@@ -3,3 +3,6 @@
 build
 
 emsdk
+
+frontend/game.wasm
+frontend/game.js
